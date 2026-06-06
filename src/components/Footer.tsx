@@ -87,8 +87,8 @@ export default function Footer() {
               </p>
               <p className="flex items-center gap-3">
                 <Mail size={14} className="text-brand-rust" />
-                <a href="mailto:naraaifilm82@gmail.com" className="hover:text-brand-orange transition-colors">
-                  naraaifilm82@gmail.com
+                <a href="mailto:shimmuseo@gmail.com" className="hover:text-brand-orange transition-colors">
+                  shimmuseo@gmail.com
                 </a>
               </p>
             </div>

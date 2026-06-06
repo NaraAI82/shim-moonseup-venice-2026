@@ -2,7 +2,7 @@
 
 import { MapPin, Calendar, Clock, ArrowRight } from "lucide-react";
 
-const FORMSPREE_ENDPOINT = "https://formspree.io/f/mgobozaa";
+const FORMSPREE_ENDPOINT = "https://formspree.io/f/mreveaon";
 const EMAIL_SUBJECT = "Inquiry about Shim Moon-Seup: Harnessed From Nature";
 const FORM_ID = "visit-contact-form";
 const STATUS_ID = "visit-contact-status";
