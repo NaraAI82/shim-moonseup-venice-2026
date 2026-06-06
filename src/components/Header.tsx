@@ -48,7 +48,7 @@ export default function Header() {
               SHIM MOON-SEUP
             </span>
             <span className="text-[9px] tracking-[0.35em] uppercase text-brand-rust font-bold">
-              Venice Biennale 2026
+              DURING THE 61ST VENICE BIENNALE
             </span>
           </a>
 
