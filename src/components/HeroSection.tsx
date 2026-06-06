@@ -28,7 +28,7 @@ export default function HeroSection() {
             className="inline-flex items-center gap-3 px-3 py-1.5 border border-brand-orange/30 bg-brand-orange/5 text-brand-orange text-xs font-mono uppercase tracking-[0.25em] mb-8 self-start"
           >
             <span className="w-1.5 h-1.5 bg-brand-orange rounded-full animate-pulse" />
-            Venice Biennale 2026 Solo Exhibition
+            SOLO EXHIBITION DURING THE 61ST VENICE BIENNALE
           </motion.div>
 
           <motion.h1
